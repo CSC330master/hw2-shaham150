@@ -1,0 +1,22 @@
+CSC 330 - Homework Assignment #2 - Aviv Shaham
+
+Part 1 - Linux commands used in this assignment:
+"pwd" -- "Print working directory"; prints the current directory I am in
+"mkdir" -- Create a new directory
+"cd" -- Change directory; move up/down through the file system
+"ls -ltr"  -- List files in long form, one per line, sort by modification time, and display in reverse sorting order
+"pico" -- Use the 'Pico' word processor to edit files
+
+Part 2 - Git commands used in this assignment:
+"git config --global user.email" and "git config --global user.name" -- Used together to link the command line interface Git with my GitHub account
+"git clone" -- Create a copy of a repository from GitHub on this machine
+"git status" -- Print the status of the local version of the working repo
+"git add" -- List files to be comitted to the local repo when the command "git commit" is used
+"git commit -m" -- Used to commit previously-added changes to the local repo; the "-m" allows specification of a commit message
+"git push" -- Used to put the changes made and committed to the local repo, in the main repo on GitHub
+
+Part 3 - My Answers:
+1. The rules for collaboration on assignments are that collaboration is allowd within our own group, but that we may only generally discuss assignments, but not have any real collaboration, with classmates outside of our group.
+2. External references are allowed for homework assignments, so long as criteria are met: students must be able to explain the concepts they used which were not covered in class, and a document listing consulted sources must be submitted with each assignment. Additionally, help from AI is permitted, so long as a statement is submitted detailing the extent of use of AI for help with the assignment.
+3. The penalty for late assignments is a 10% deduction in the assignment grade per day late, with the only exceptions being given for extreme circumstances.
+4. I read through the syllabus, but I did not find anything about what the penalty is for missing classes.
